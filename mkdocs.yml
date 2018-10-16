@@ -1,0 +1,41 @@
+site_name: 'AP Equations'
+repo_url: 'https://github.com/benmarsan/ap-equations'
+nav:
+- Home: 'index.md'
+- Physics 1:
+    - Kinematics: 'physics-1/kinematics.md'
+    - Circular Motion: 'physics-1/rotation.md'
+    - Electricity: 'physics-1/electricity.md'
+    - Sound: 'physics-1/sound.md'
+- Physics 2:
+    - Fluids: 'physics-2/fluids.md'
+    - Thermodynamics: 'physics-2/thermo.md'
+
+theme:
+    name: 'material'
+    language: 'en'
+    logo:
+        icon: 'assessment'
+    favicon: 'images/icon.ico'
+    palette:
+        primary: 'orange'
+        accent: 'orange'
+    font:
+        text: 'Ubuntu'
+        code: 'Ubuntu Mono'
+    feature:
+        tabs: true
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+markdown_extensions:
+    - admonition
+    - toc:
+        permalink: '#'
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.details
+    - pymdownx.superfences
