@@ -10,6 +10,7 @@ nav:
 - Physics 2:
     - Fluids: 'physics-2/fluids.md'
     - Thermodynamics: 'physics-2/thermo.md'
+    - Electric Field: 'physics-2/efield.md'
 
 theme:
     name: 'material'
