@@ -9,8 +9,8 @@
 $$
     \vec{F} = \frac{kQ_1q_2}{r^2}
         = \vec{E}q_2
-        = \frac{U}{r}
         \color{grey}
+        = \frac{U}{r}
         = \frac{Vq_2}{r}
 $$
 
