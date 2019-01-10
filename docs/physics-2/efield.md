@@ -1,5 +1,9 @@
 # Electric Field, Force, and Potential
 
+
+!!! tip
+    The best way to remember these equations is the Electricity Diamond.
+
 ## Force
 
 $$
