@@ -7,23 +7,39 @@
 ## Force
 
 $$
-    \vec{F} = \frac{kQ_1q_2}{r^2} = \vec{E}q_2 = \frac{U}{r} = \frac{Vq_2}{r}
+    \vec{F} = \frac{kQ_1q_2}{r^2}
+        = \vec{E}q_2
+        = \frac{U}{r}
+        \color{grey}
+        = \frac{Vq_2}{r}
 $$
 
 ## Field
 
 $$
-    \vec{E} = \frac{kQ_1}{r^2} = \frac{\vec{F}}{q_2} = \frac{U}{q_2r} = \frac{V}{r}
+    \vec{E} = \frac{kQ_1}{r^2}
+        = \frac{\vec{F}}{q_2}
+        = \frac{V}{r}
+        \color{grey}
+        = \frac{U}{q_2r}
 $$
 
 ## Energy
 
 $$
-    U = \frac{kQ_1q_2}{r} = \vec{F}r = \vec{E}q_2r = Vq_2
+    U = \frac{kQ_1q_2}{r}
+        = \vec{F}r
+        = Vq_2
+        \color{grey}
+        = \vec{E}q_2r
 $$
 
 ## Electric Potential
 
 $$
-    V =\frac{kQ_1}{r} = \frac{\vec{F}r}{q_2} = \vec{E}r = \frac{U}{q}
+    V =\frac{kQ_1}{r}
+        = \vec{E}r
+        = \frac{U}{q}
+        \color{grey}
+        = \frac{\vec{F}r}{q_2}
 $$
