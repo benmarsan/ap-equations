@@ -12,6 +12,7 @@ nav:
     - Thermodynamics: 'physics-2/thermo.md'
     - Electric Field: 'physics-2/efield.md'
     - Circuits: 'physics-2/circuits.md'
+    - Magnetic Field: 'physics-2/bfield.md'
 
 theme:
     name: 'material'

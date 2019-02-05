@@ -45,7 +45,7 @@ Equivalent capacitance is the opposite of equivalent resistance.
 
 $$
     \tau = R * C\\
-    \color{blue}
+    \color{grey}
     V_c = V_s (1 - e^{-\frac{t}{RC}})
 $$
 
