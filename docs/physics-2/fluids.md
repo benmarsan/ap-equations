@@ -30,6 +30,19 @@ $$
     Q_1 = v_1a_1 = v_2a_2 = Q_2
 $$
 
+## Pressure
+
+$$
+    P = \frac{F}{A}
+$$
+
+### Pascal's Equation
+
+$$
+    P_1 = P_2
+    \frac{F_1}{A_1} = \frac{F_2}{A_2}
+$$
+
 ## Bernoulli's Equation
 
 $$
